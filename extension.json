@@ -1,0 +1,15 @@
+{
+  "builtin": true,
+  "default_enabled": true,
+  "type": "extension",
+  "name": "ConversationalModeler",
+  "description": "Conversational 3D building modeling tools for Revit",
+  "author": "Val Adamescu",
+  "author_profile": "",
+  "url": "",
+  "website": "",
+  "image": "",
+  "dependencies": [],
+  "install_link": "direct",
+  "rocket_mode_compatible": true
+}

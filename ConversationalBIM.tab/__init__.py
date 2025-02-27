@@ -1,0 +1,10 @@
+"""Conversational BIM tab."""
+__title__ = "ConvBIM"
+__iconpath__ = "icon.png"
+__longname__ = "Conversational BIM"
+__description__ = "Natural language commands for BIM"
+__author__ = "Val Adamescu"
+__email__ = "val.adamescu@port.ac.uk"
+__version__ = "0.1.0"
+
+"""Library initialization for ConversationalBIM extension."""
