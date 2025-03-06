@@ -1,5 +1,5 @@
 """Create classical flower pillar columns."""
-__title__ = 'Pillar\nColumn'
+__title__ = 'Column\nCreator'
 __doc__ = 'Create flower columns with smooth concave fluting (units in meters)'
 
 import clr
